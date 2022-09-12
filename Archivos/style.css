@@ -1,0 +1,56 @@
+.nav-link{
+    font-family: Montserrat ;
+    src: url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap);
+    font-size: larger;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.rocas{
+    max-width: 200px;
+    height: auto;
+    float:left
+
+}
+
+td{
+    font-family: Montserrat ;
+    src: url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap);
+    font-weight: bold;
+}
+
+.titulo_piedra{
+    text-align: center;
+}
+
+
+
+#mydatatable tfoot input{
+    width: 100% !important;
+}
+#mydatatable tfoot {
+    display: table-header-group !important;
+}
+
+
+.cajacartas{
+    margin-left: 10%;
+    width: auto;
+    height: auto;
+    
+}
+.card{
+    margin: 20px;
+    align-items: center;
+    float: left;
+}
+
+
+.card-text{
+    text-align: center;
+}
+
+.card-img-top{
+    height: 180px;
+}
